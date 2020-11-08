@@ -1,0 +1,241 @@
+header
+{
+  border-color: none;
+  background-image: url(imagen/sn.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 90.5%;
+  height: 386px;
+  top: -8px;
+  left: -8px;
+  position: absolute;
+}
+
+body
+{
+  border-color: none;
+  position: relative;
+}
+
+footer
+{
+  background-color:  #759eff;
+  border-style: none;
+  border-radius: 0px;
+  text-align: center;
+  width: 90.5%;
+  height: 5%;
+  top:  95.5%;
+  left: -8px;
+  position: absolute;
+}
+
+div3
+{
+  top: 67%;
+  left:57%;
+  background-color: blue;
+  position: relative;
+}
+
+img0
+{
+  border-radius: 20px 20px 20px 20px;
+  border: solid;
+  border-color: black;
+  background-color: #759eff;
+  background-image: url(imagen/estadio.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 33%;
+  height: 30%;
+  top:  35%;
+  left: 3%;
+  position: absolute;
+}
+
+img1
+{
+  border-radius: 20px 20px 20px 20px;
+  border: solid;
+  border-color: black;
+  background-color: black;
+  background-image: url(imagen/separador2.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 25%;
+  height: 5%;
+  top:  35%;
+  left: 43%;
+  position: absolute;
+}
+
+img2
+{
+  border-radius: 20px 20px 20px 20px;
+  border: solid;
+  border-color: black;
+  background-color: black;
+  background-image: url(imagen/separador2.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 18%;
+  height: 5%;
+  top:  35%;
+  left: 71%;
+  position: absolute;
+}
+
+img3
+{
+  border-radius: 20px 20px 20px 20px;
+  border: solid;
+  border-color: black;
+  background-color: black;
+  background-image: url(imagen/separador2.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 65%;
+  height: 5%;
+  top:  73%;
+  left: 3%;
+  position: absolute;
+}
+
+p0
+{
+ 
+  position: absolute;
+}
+
+p1
+{
+  font-weight: bold;
+  color: white;
+  padding-top: 2%;
+  border-color: none;
+  background-color: none;
+  text-align: center;
+  width: 562px;
+  height: 48px;
+  top:  35%;
+  left: 6%; 
+  position: relative;
+}
+
+p3
+{
+  font-weight: bold;
+  color: white;
+  padding-top: 2%;
+  border-color: none;
+  background-color: none;
+  text-align: center;
+  width: 562px;
+  height: 48px;
+  top:  35%;
+  left: 17%; 
+  position: relative;
+}
+
+.colorTable
+{
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.textCenter
+{
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-color:  #759eff;
+}
+
+.textCenter2
+{
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-color:  none;
+  top: 49.5%; 
+  left: 48.5%; 
+  height:15%; 
+  width:15%; 
+  position: absolute; 
+  border: solid; 
+  border-color: black;
+}
+
+.textCenter3
+{
+  text-align: center;
+  border: solid;
+  border-color: black;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-color:  none;
+  top: 49.5%; 
+  left: 72.5%; 
+  height:15%; 
+  width:15%; 
+  position: absolute; 
+
+}
+
+.textCenter4
+{
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-color:  none;
+  top: 29%; 
+  left: 35%; 
+  height:15%; 
+  width:45%; 
+  position: absolute; 
+  border: none; 
+}
+
+.ubicacion
+{
+  border-radius: 0px;
+  border: solid;
+  border-color: black;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-color:  none;
+  top: 79.5%; 
+  left: 3%; 
+  height:3%; 
+  width: 54%; 
+  position: absolute; 
+}
+
+.ubicacion2
+{
+  border: solid;
+  border-color: black;
+  font-weight: bold;
+  text-align: center;
+  background-color:  none;
+  top: 79.5%; 
+  left: 59%; 
+  height:3.5%; 
+  width: 9.5%; 
+  position: absolute; 
+}
+
+.main
+{
+  height: 1200px; 
+}
